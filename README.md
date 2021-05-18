@@ -18,7 +18,7 @@ this is done
 
 
 ## How to contribute
-I want to contribute
+I want to contribute pull request
 
 ## Done
 My work is done by sandeep
@@ -27,4 +27,7 @@ My work is done by sandeep
 
 ###copyright
 sandeep das
+
+
+
 
