@@ -14,7 +14,11 @@ Sample website with plenty of files for demos
 
 
 ## Deployment
+this is done
 
 
 ## How to contribute
+I want to contribute
+
+## Done
 
